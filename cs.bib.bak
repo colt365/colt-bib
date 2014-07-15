@@ -114,6 +114,7 @@
   Year                     = {2011},
   Organization             = {SIAM},
   Pages                    = {379--390},
+
   File                     = {Published version:Chen2011.pdf:PDF},
   Owner                    = {Colt},
   Timestamp                = {2014.06.21},
@@ -141,6 +142,7 @@
   Author                   = {Chen, Wei and Lu, Wei and Zhang, Ning},
   Booktitle                = {AAAI},
   Year                     = {2012},
+
   File                     = {Published version:Chen2012.pdf:PDF},
   Owner                    = {Colt},
   Timestamp                = {2014.06.21},
@@ -155,7 +157,6 @@
   Organization             = {ACM},
   Pages                    = {1029--1038},
 
-  __markedentry            = {[Colt:]},
   File                     = {Published version:Chen2010.pdf:PDF},
   Owner                    = {Colt},
   Timestamp                = {2014.06.21},
@@ -197,8 +198,6 @@
   Year                     = {2010},
   Organization             = {IEEE},
   Pages                    = {88--97},
-
-  __markedentry            = {[Colt:6]},
   File                     = {:Chen2010a.pdf:PDF},
   Owner                    = {Colt},
   Timestamp                = {2014.06.21},
@@ -259,6 +258,23 @@
   Owner                    = {Colt},
   Timestamp                = {2014.04.30},
   Url                      = {http://link.springer.com/chapter/10.1007/978-3-642-40450-4_28}
+}
+
+@InBook{Cohen2004,
+  Title                    = {Harrison's Principles of Internal Medicine},
+  Author                   = {Cohen, Jeffrey I.},
+  Chapter                  = {Chapter 175: Enteroviruses and Reoviruses},
+  Editor                   = {Isselbacher, Kurt J. and Braunwald, Eugene and Wilson, Jean D. and Martin, Joseph B. and Fauci, Anthony S. and Kasper, Dennis L.},
+  Pages                    = {1144},
+  Publisher                = {McGraw-Hill Professional},
+  Year                     = {2004},
+  Edition                  = {16},
+  Month                    = {7},
+  Volume                   = {2},
+
+  __markedentry            = {[Colt:]},
+  Owner                    = {Colt},
+  Timestamp                = {2014.07.14}
 }
 
 @InCollection{Doerr2012,
@@ -623,6 +639,22 @@
   Url                      = {http://dl.acm.org/citation.cfm?id=1516427}
 }
 
+@InBook{Sherris1984,
+  Title                    = {Sherris Medical Microbiology : An Introduction to Infectious Diseases},
+  Author                   = {Sherris, John C and others},
+  Chapter                  = {Enteroviruses},
+  Editor                   = {Ray, C. George and Ryan, Kenneth J.},
+  Pages                    = {535--537},
+  Publisher                = {McGraw-Hill Medical},
+  Year                     = {2003},
+  Edition                  = {4},
+  Month                    = {7},
+
+  __markedentry            = {[Colt:6]},
+  Owner                    = {Colt},
+  Timestamp                = {2014.07.15}
+}
+
 @Article{Yang2013,
   Title                    = {Maximizing Acceptance Probability for Active Friending in
  On-Line Social Networks},
@@ -668,5 +700,6 @@ Golovin2010\;Goyal2011\;Goyal2013\;Kempe2003\;Kunegis2013\;Newman2002\
 1 ExplicitGroup:Game Theory\;0\;;
 1 ExplicitGroup:LNCS\;0\;Albers2009-1\;Albers2009-2\;Bodlaender2013\;C
 ai2013\;Du2013\;Graham2007\;Kaski2012\;Moscibroda2013\;Rawitz2012\;;
+1 ExplicitGroup:Medical\;0\;Cohen2004\;;
 }
 
