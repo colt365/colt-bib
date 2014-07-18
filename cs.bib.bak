@@ -270,11 +270,10 @@
   Chapter                  = {175},
   Edition                  = {16},
   Editor                   = {Isselbacher, Kurt J. and Braunwald, Eugene and Wilson, Jean D. and Martin, Joseph B. and Fauci, Anthony S. and Kasper, Dennis L.},
-  Month                    = {7},
+  Month                    = {Jul},
   Pages                    = {1144},
   Volume                   = {2},
 
-  __markedentry            = {[Colt:]},
   Owner                    = {Colt},
   Timestamp                = {2014.07.14}
 }
@@ -620,10 +619,10 @@
   Publisher                = {McGraw-Hill Medical},
   Year                     = {2003},
   Edition                  = {4},
-  Month                    = {7},
+  Month                    = {Jul},
   Pages                    = {535--537},
 
-  __markedentry            = {[Colt:6]},
+  __markedentry            = {[Colt:]},
   Owner                    = {Colt},
   Timestamp                = {2014.07.15}
 }
@@ -656,12 +655,32 @@
   Url                      = {http://dl.acm.org/citation.cfm?id=1516427}
 }
 
+@Article{Rosen2004,
+  Title                    = {Isolation of Poliovirus---{John Enders} and {the Nobel Prize}},
+  Author                   = {Rosen, Fred S.},
+  Journal                  = {New England Journal of Medicine},
+  Year                     = {2004},
+
+  Month                    = {Oct},
+  Number                   = {15},
+  Pages                    = {1481--1483},
+  Volume                   = {351},
+
+  __markedentry            = {[Colt:6]},
+  Doi                      = {10.1056/nejmp048202},
+  ISSN                     = {1533-4406},
+  Owner                    = {Colt},
+  Publisher                = {New England Journal of Medicine (NEJM/MMS)},
+  Timestamp                = {2014.07.18},
+  Url                      = {http://dx.doi.org/10.1056/NEJMp048202}
+}
+
 @InCollection{WHO2014,
-  Title                    = {{Fact Sheets No.114: Poliomyelitis}},
+  Title                    = {{Fact Sheet No.114: Poliomyelitis}},
   Author                   = {{World Health Organization}},
   Booktitle                = {WHO Fact Sheets},
   Year                     = {2014},
-  Month                    = {5},
+  Month                    = {May},
 
   Owner                    = {Colt},
   Timestamp                = {2014.07.16}
@@ -712,6 +731,6 @@ Golovin2010\;Goyal2011\;Goyal2013\;Kempe2003\;Kunegis2013\;Newman2002\
 1 ExplicitGroup:Game Theory\;0\;;
 1 ExplicitGroup:LNCS\;0\;Albers2009-1\;Albers2009-2\;Bodlaender2013\;C
 ai2013\;Du2013\;Graham2007\;Kaski2012\;Moscibroda2013\;Rawitz2012\;;
-1 ExplicitGroup:Medical\;0\;Cohen2004\;WHO2014\;;
+1 ExplicitGroup:Medical\;0\;Cohen2004\;Rosen2004\;WHO2014\;;
 }
 
