@@ -24,6 +24,26 @@
   Timestamp                = {2014.04.30}
 }
 
+@Article{AAP1997,
+  Title                    = {Poliomyelitis prevention: recommendations for use of inactivated poliovirus vaccine and live oral poliovirus vaccine},
+  Author                   = {{American Academy of Pediatrics, Committee on Infectious Diseases}},
+  Journal                  = {Pediatrics},
+  Year                     = {1997},
+
+  Month                    = {Feb},
+  Number                   = {2},
+  Pages                    = {300--305},
+  Volume                   = {99},
+
+  __markedentry            = {[Colt:]},
+  Doi                      = {10.1542/peds.99.2.300},
+  ISSN                     = {1098-4275},
+  Owner                    = {Colt},
+  Publisher                = {American Academy of Pediatrics (AAP)},
+  Timestamp                = {2014.07.19},
+  Url                      = {http://dx.doi.org/10.1542/peds.99.2.300}
+}
+
 @Article{Barabasi1999,
   Title                    = {Emergence of scaling in random networks},
   Author                   = {Barab{\'a}si, Albert-L{\'a}szl{\'o} and Albert, R{\'e}ka},
@@ -529,6 +549,22 @@
   Url                      = {http://dl.acm.org/citation.cfm?id=956769}
 }
 
+@Article{Kroger2011,
+  Title                    = {General recommendations on immunization: recommendations of the Advisory Committee on Immunizations Practices (ACIP)},
+  Author                   = {Kroger, Andrew T. and Sumaya, Ciro V. and Pickering, Larry K. and Atkinson, William L.},
+  Journal                  = {Morbidity and Mortality Weekly Report},
+  Year                     = {2011},
+
+  Month                    = {Jan},
+  Pages                    = {1--60},
+  Volume                   = {60},
+
+  __markedentry            = {[Colt:6]},
+  Owner                    = {Colt},
+  Timestamp                = {2014.07.19},
+  Url                      = {http://stacks.cdc.gov/view/cdc/13309}
+}
+
 @InProceedings{Kunegis2013,
   Title                    = {Preferential attachment in online networks: Measurement and explanations},
   Author                   = {Kunegis, J{\'e}r{\^o}me and Blattner, Marcel and Moser, Christine},
@@ -600,6 +636,19 @@
   Timestamp                = {2014.04.30}
 }
 
+@InCollection{Plotkin2012,
+  Title                    = {Poliovirus vaccine-inactivated and poliovirus vaccine-live},
+  Author                   = {Plotkin, Stanley A. and Orenstein, Walter and Offit, Paul A.},
+  Booktitle                = {Vaccines},
+  Publisher                = {Saunders},
+  Year                     = {2012},
+  Edition                  = {6},
+  Pages                    = {573--645},
+
+  Owner                    = {Colt},
+  Timestamp                = {2014.07.19}
+}
+
 @Book{Rawitz2012,
   Title                    = {LNCS 7659 Design and Analysis of Algorithms},
   Author                   = {Rawitz, Guy Even Dror},
@@ -621,8 +670,6 @@
   Edition                  = {4},
   Month                    = {Jul},
   Pages                    = {535--537},
-
-  __markedentry            = {[Colt:]},
   Owner                    = {Colt},
   Timestamp                = {2014.07.15}
 }
@@ -639,6 +686,17 @@
   Owner                    = {Colt},
   Timestamp                = {2014.04.23},
   Url                      = {http://dl.acm.org/citation.cfm?id=775057}
+}
+
+@InCollection{Robertson1993,
+  Title                    = {Module 6: Poliomyelitis},
+  Author                   = {Robertson, Susan},
+  Booktitle                = {The Immunological Basis for Immunization Series},
+  Publisher                = {{World Health Organization}},
+  Year                     = {1993},
+
+  Owner                    = {Colt},
+  Timestamp                = {2014.07.19}
 }
 
 @InProceedings{Ronen2009,
@@ -665,14 +723,30 @@
   Number                   = {15},
   Pages                    = {1481--1483},
   Volume                   = {351},
-
-  __markedentry            = {[Colt:6]},
   Doi                      = {10.1056/nejmp048202},
   ISSN                     = {1533-4406},
   Owner                    = {Colt},
   Publisher                = {New England Journal of Medicine (NEJM/MMS)},
   Timestamp                = {2014.07.18},
   Url                      = {http://dx.doi.org/10.1056/NEJMp048202}
+}
+
+@Article{Shimizu2004,
+  Title                    = {Circulation of Type 1~{V}accine-Derived Poliovirus in the {Philippines} in 2001},
+  Author                   = {Shimizu, H. and Thorley, B. and Paladin, F. J. and Brussen, K. A. and Stambos, V. and Yuen, L. and Utama, A. and Tano, Y. and Arita, M. and Yoshida, H. and et al.},
+  Journal                  = {Journal of Virology},
+  Year                     = {2004},
+
+  Month                    = {Dec},
+  Number                   = {24},
+  Pages                    = {13512--13521},
+  Volume                   = {78},
+  Doi                      = {10.1128/jvi.78.24.13512-13521.2004},
+  ISSN                     = {0022-538X},
+  Owner                    = {Colt},
+  Publisher                = {American Society for Microbiology},
+  Timestamp                = {2014.07.19},
+  Url                      = {http://dx.doi.org/10.1128/JVI.78.24.13512-13521.2004}
 }
 
 @InCollection{WHO2014,
@@ -731,6 +805,7 @@ Golovin2010\;Goyal2011\;Goyal2013\;Kempe2003\;Kunegis2013\;Newman2002\
 1 ExplicitGroup:Game Theory\;0\;;
 1 ExplicitGroup:LNCS\;0\;Albers2009-1\;Albers2009-2\;Bodlaender2013\;C
 ai2013\;Du2013\;Graham2007\;Kaski2012\;Moscibroda2013\;Rawitz2012\;;
-1 ExplicitGroup:Medical\;0\;Cohen2004\;Rosen2004\;WHO2014\;;
+1 ExplicitGroup:Medical\;0\;AAP1997\;Cohen2004\;Kroger2011\;Plotkin201
+2\;Robertson1993\;Rosen2004\;Shimizu2004\;WHO2014\;;
 }
 
