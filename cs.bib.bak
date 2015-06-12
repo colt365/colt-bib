@@ -35,13 +35,24 @@
   Pages                    = {300--305},
   Volume                   = {99},
 
-  __markedentry            = {[Colt:]},
   Doi                      = {10.1542/peds.99.2.300},
   ISSN                     = {1098-4275},
   Owner                    = {Colt},
   Publisher                = {American Academy of Pediatrics (AAP)},
   Timestamp                = {2014.07.19},
   Url                      = {http://dx.doi.org/10.1542/peds.99.2.300}
+}
+
+@Book{Anderson1992,
+  Title                    = {Infectious diseases of humans: dynamics and control},
+  Author                   = {Anderson, Roy M and May, Robert M and Anderson, B},
+  Publisher                = {Wiley Online Library},
+  Year                     = {1992},
+  Volume                   = {28},
+
+  __markedentry            = {[Colt:]},
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
 }
 
 @Article{Barabasi1999,
@@ -58,6 +69,15 @@
   Publisher                = {American Association for the Advancement of Science},
   Timestamp                = {2014.04.28},
   Url                      = {http://www.sciencemag.org/content/286/5439/509.short}
+}
+
+@Book{Barnes1954,
+  Title                    = {Class and committees in a Norwegian island parish},
+  Author                   = {Barnes, John Arundel},
+  Publisher                = {Plenum},
+  Year                     = {1954},
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.11}
 }
 
 @InCollection{Bazgan2013,
@@ -267,6 +287,15 @@
   Url                      = {http://link.springer.com/chapter/10.1007/978-3-642-02930-1_31}
 }
 
+@Book{Christakis2009,
+  Title                    = {Connected: The surprising power of our social networks and how they shape our lives},
+  Author                   = {Christakis, Nicholas A and Fowler, James H},
+  Publisher                = {Little, Brown},
+  Year                     = {2009},
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
+}
+
 @InCollection{Clementi2013,
   Title                    = {Rumor spreading in random evolving graphs},
   Author                   = {Clementi, Andrea and Crescenzi, Pierluigi and Doerr, Carola and Fraigniaud, Pierre and Isopi, Marco and Panconesi, Alessandro and Pasquale, Francesco and Silvestri, Riccardo},
@@ -409,6 +438,26 @@
   Timestamp                = {2014.04.30}
 }
 
+@Book{Emile1893,
+  Title                    = {De la division du travail social: étude sur l'organisation des sociétés supérieures},
+  Author                   = {Emile, Durkheim},
+  Publisher                = {F. Alcan},
+  Year                     = {1893},
+
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.10}
+}
+
+@Book{Ferdinand1887,
+  Title                    = {Gemeinschaft und Gesellschaft},
+  Author                   = {Ferdinand, Tönnies},
+  Publisher                = {Fues's Verlag},
+  Year                     = {1887},
+
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.10}
+}
+
 @InProceedings{Fountoulakis2012,
   Title                    = {Ultra-fast rumor spreading in social networks},
   Author                   = {Fountoulakis, Nikolaos and Panagiotou, Konstantinos and Sauerwald, Thomas},
@@ -523,6 +572,27 @@
   Url                      = {http://link.springer.com/content/pdf/10.1007/978-3-540-77105-0.pdf}
 }
 
+@Article{Granovetter1978,
+  Title                    = {Threshold models of collective behavior},
+  Author                   = {Granovetter, Mark},
+  Journal                  = {American journal of sociology},
+  Year                     = {1978},
+  Pages                    = {1420--1443},
+  Owner                    = {Colt},
+  Publisher                = {JSTOR},
+  Timestamp                = {2015.06.12}
+}
+
+@Book{Grimmett2010,
+  Title                    = {Probability on graphs: random processes on graphs and lattices},
+  Author                   = {Grimmett, Geoffrey},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2010},
+  Volume                   = {1},
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
+}
+
 @Book{Kaski2012,
   Title                    = {LNCS 7357 Algorithm Theory - SWAT 2012},
   Author                   = {Kaski, Fedor V Fomin Petteri},
@@ -559,7 +629,6 @@
   Pages                    = {1--60},
   Volume                   = {60},
 
-  __markedentry            = {[Colt:6]},
   Owner                    = {Colt},
   Timestamp                = {2014.07.19},
   Url                      = {http://stacks.cdc.gov/view/cdc/13309}
@@ -579,6 +648,17 @@
   Url                      = {http://dl.acm.org/citation.cfm?id=2464514}
 }
 
+@InProceedings{Lu2013,
+  Title                    = {The bang for the buck: fair competitive viral marketing from the host perspective},
+  Author                   = {Lu, Wei and Bonchi, Francesco and Goyal, Amit and Lakshmanan, Laks VS},
+  Booktitle                = {Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining},
+  Year                     = {2013},
+  Organization             = {ACM},
+  Pages                    = {928--936},
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
+}
+
 @Book{Moscibroda2013,
   Title                    = {LNCS 8179 Structural Information and Communication Complexity},
   Author                   = {Moscibroda, Thomas and Rescigno, Adele A},
@@ -589,6 +669,17 @@
   Owner                    = {Colt},
   Timestamp                = {2014.04.30},
   Url                      = {http://link.springer.com/content/pdf/10.1007/978-3-319-03578-9.pdf}
+}
+
+@Book{Newman2010,
+  Title                    = {Networks: an introduction},
+  Author                   = {Newman, Mark},
+  Publisher                = {Oxford University Press},
+  Year                     = {2010},
+
+  __markedentry            = {[Colt:6]},
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
 }
 
 @Article{Newman2003,
@@ -649,6 +740,19 @@
   Timestamp                = {2014.07.19}
 }
 
+@Article{Radcliffe-Brown1940,
+  Title                    = {On joking relationships},
+  Author                   = {Radcliffe-Brown, Alfred R},
+  Journal                  = {Journal of the International African Institute},
+  Year                     = {1940},
+  Number                   = {03},
+  Pages                    = {195--210},
+  Volume                   = {13},
+  Owner                    = {Colt},
+  Publisher                = {Cambridge Univ Press},
+  Timestamp                = {2015.06.11}
+}
+
 @Book{Rawitz2012,
   Title                    = {LNCS 7659 Design and Analysis of Algorithms},
   Author                   = {Rawitz, Guy Even Dror},
@@ -670,6 +774,7 @@
   Edition                  = {4},
   Month                    = {Jul},
   Pages                    = {535--537},
+
   Owner                    = {Colt},
   Timestamp                = {2014.07.15}
 }
@@ -723,12 +828,22 @@
   Number                   = {15},
   Pages                    = {1481--1483},
   Volume                   = {351},
+
   Doi                      = {10.1056/nejmp048202},
   ISSN                     = {1533-4406},
   Owner                    = {Colt},
   Publisher                = {New England Journal of Medicine (NEJM/MMS)},
   Timestamp                = {2014.07.18},
   Url                      = {http://dx.doi.org/10.1056/NEJMp048202}
+}
+
+@Article{Schelling1978,
+  Title                    = {Micromotives and Macrobehavior},
+  Author                   = {Schelling, Thomas C},
+  Journal                  = {New York: NortonSchellingMicromotives and Macrobehavior1978},
+  Year                     = {1978},
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
 }
 
 @Article{Shimizu2004,
@@ -741,12 +856,24 @@
   Number                   = {24},
   Pages                    = {13512--13521},
   Volume                   = {78},
+
   Doi                      = {10.1128/jvi.78.24.13512-13521.2004},
   ISSN                     = {0022-538X},
   Owner                    = {Colt},
   Publisher                = {American Society for Microbiology},
   Timestamp                = {2014.07.19},
   Url                      = {http://dx.doi.org/10.1128/JVI.78.24.13512-13521.2004}
+}
+
+@Book{Wasserman1994,
+  Title                    = {Social network analysis: Methods and applications},
+  Author                   = {Wasserman, Stanley and Faust, Katherine},
+  Publisher                = {Cambridge university press},
+  Year                     = {1994},
+  Volume                   = {8},
+
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.11}
 }
 
 @InCollection{WHO2014,
@@ -763,10 +890,7 @@
 @Article{Yang2013,
   Title                    = {Maximizing Acceptance Probability for Active Friending in
  On-Line Social Networks},
-  Author                   = {De-Nian Yang and
- Hui-Ju Hung and
- Wang-Chien Lee and
- Wei Chen},
+  Author                   = {Denian Yang and Huiju Hung and Wangchien Lee and Wei Chen},
   Journal                  = {CoRR},
   Year                     = {2013},
   Volume                   = {abs/1302.7025},
@@ -797,10 +921,10 @@
 007\;Candogan2012\;Chen2009\;Chen2011\;Chen2013\;Chen2013a\;Chierichet
 ti2009\;Chierichetti2010\;Chierichetti2010a\;Clementi2013\;Doerr2009\;
 Doerr2011\;Doerr2012\;Doerr2012a\;Domingos1997\;Domingos2001\;Domingos
-2005\;Fountoulakis2012\;Gargano2013\;Goldenberg2001\;Goldenberg2001a\;
-Golovin2010\;Goyal2011\;Goyal2013\;Kempe2003\;Kunegis2013\;Newman2002\
-;Newman2003\;Ozdaglar2007\;Richardson2002\;Ronen2009\;Yang2013\;Zhuang
-2013\;;
+2005\;Ferdinand1887\;Fountoulakis2012\;Gargano2013\;Goldenberg2001\;Go
+ldenberg2001a\;Golovin2010\;Goyal2011\;Goyal2013\;Kempe2003\;Kunegis20
+13\;Newman2002\;Newman2003\;Ozdaglar2007\;Radcliffe-Brown1940\;Richard
+son2002\;Ronen2009\;Wasserman1994\;Yang2013\;Zhuang2013\;;
 1 ExplicitGroup:Graph Theory\;0\;Cai2013\;;
 1 ExplicitGroup:Game Theory\;0\;;
 1 ExplicitGroup:LNCS\;0\;Albers2009-1\;Albers2009-2\;Bodlaender2013\;C
