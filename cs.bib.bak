@@ -50,7 +50,6 @@
   Year                     = {1992},
   Volume                   = {28},
 
-  __markedentry            = {[Colt:]},
   Owner                    = {Colt},
   Timestamp                = {2015.06.12}
 }
@@ -76,6 +75,7 @@
   Author                   = {Barnes, John Arundel},
   Publisher                = {Plenum},
   Year                     = {1954},
+
   Owner                    = {Colt},
   Timestamp                = {2015.06.11}
 }
@@ -119,6 +119,18 @@
   Timestamp                = {2014.04.30}
 }
 
+@InProceedings{Briesemeister2003,
+  Title                    = {Epidemic profiles and defense of scale-free networks},
+  Author                   = {Briesemeister, Linda and Lincoln, Patrick and Porras, Phillip},
+  Booktitle                = {Proceedings of the 2003 ACM workshop on Rapid malcode},
+  Year                     = {2003},
+  Organization             = {ACM},
+  Pages                    = {67--75},
+
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
+}
+
 @Book{Cai2013,
   Title                    = {LNCS 8283 Algorithms and Computation},
   Author                   = {Cai, Leizhen and Cheng, Siu-Wing and Lam, Tak-Wah},
@@ -145,6 +157,20 @@
   Publisher                = {INFORMS},
   Timestamp                = {2014.04.30},
   Url                      = {http://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1066}
+}
+
+@Article{Chakrabarti2008,
+  Title                    = {Epidemic thresholds in real networks},
+  Author                   = {Chakrabarti, Deepayan and Wang, Yang and Wang, Chenxi and Leskovec, Jurij and Faloutsos, Christos},
+  Journal                  = {ACM Transactions on Information and System Security (TISSEC)},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {1},
+  Volume                   = {10},
+
+  Owner                    = {Colt},
+  Publisher                = {ACM},
+  Timestamp                = {2015.06.12}
 }
 
 @InProceedings{Chen2011,
@@ -292,6 +318,7 @@
   Author                   = {Christakis, Nicholas A and Fowler, James H},
   Publisher                = {Little, Brown},
   Year                     = {2009},
+
   Owner                    = {Colt},
   Timestamp                = {2015.06.12}
 }
@@ -325,6 +352,21 @@
 
   Owner                    = {Colt},
   Timestamp                = {2014.07.14}
+}
+
+@Article{Cohen2003,
+  Title                    = {Efficient immunization strategies for computer networks and populations},
+  Author                   = {Cohen, Reuven and Havlin, Shlomo and Ben-Avraham, Daniel},
+  Journal                  = {Physical review letters},
+  Year                     = {2003},
+  Number                   = {24},
+  Pages                    = {247901},
+  Volume                   = {91},
+
+  __markedentry            = {[Colt:]},
+  Owner                    = {Colt},
+  Publisher                = {APS},
+  Timestamp                = {2015.06.12}
 }
 
 @InCollection{Doerr2012,
@@ -472,6 +514,19 @@
   Url                      = {http://dl.acm.org/citation.cfm?id=2095246}
 }
 
+@InProceedings{Ganesh2005,
+  Title                    = {The effect of network topology on the spread of epidemics},
+  Author                   = {Ganesh, Ayalvadi and Massouli{\'e}, Laurent and Towsley, Don},
+  Booktitle                = {INFOCOM 2005. 24th Annual Joint Conference of the IEEE Computer and Communications Societies. Proceedings IEEE},
+  Year                     = {2005},
+  Organization             = {IEEE},
+  Pages                    = {1455--1466},
+  Volume                   = {2},
+
+  Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
+}
+
 @InCollection{Gargano2013,
   Title                    = {Influence Diffusion in Social Networks under Time Window Constraints},
   Author                   = {Gargano, Luisa and Hell, Pavol and Peters, Joseph and Vaccaro, Ugo},
@@ -578,6 +633,7 @@
   Journal                  = {American journal of sociology},
   Year                     = {1978},
   Pages                    = {1420--1443},
+
   Owner                    = {Colt},
   Publisher                = {JSTOR},
   Timestamp                = {2015.06.12}
@@ -589,6 +645,7 @@
   Publisher                = {Cambridge University Press},
   Year                     = {2010},
   Volume                   = {1},
+
   Owner                    = {Colt},
   Timestamp                = {2015.06.12}
 }
@@ -655,7 +712,23 @@
   Year                     = {2013},
   Organization             = {ACM},
   Pages                    = {928--936},
+
   Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
+}
+
+@Article{Madar2004,
+  Title                    = {Immunization and epidemic dynamics in complex networks},
+  Author                   = {Madar, Nilly and Kalisky, Tomer and Cohen, Reuven and ben-Avraham, Daniel and Havlin, Shlomo},
+  Journal                  = {The European Physical Journal B-Condensed Matter and Complex Systems},
+  Year                     = {2004},
+  Number                   = {2},
+  Pages                    = {269--276},
+  Volume                   = {38},
+
+  __markedentry            = {[Colt:6]},
+  Owner                    = {Colt},
+  Publisher                = {Springer},
   Timestamp                = {2015.06.12}
 }
 
@@ -677,8 +750,35 @@
   Publisher                = {Oxford University Press},
   Year                     = {2010},
 
-  __markedentry            = {[Colt:6]},
   Owner                    = {Colt},
+  Timestamp                = {2015.06.12}
+}
+
+@Article{Newman2005,
+  Title                    = {Threshold effects for two pathogens spreading on a network},
+  Author                   = {Newman, Mark EJ},
+  Journal                  = {Physical review letters},
+  Year                     = {2005},
+  Number                   = {10},
+  Pages                    = {108701},
+  Volume                   = {95},
+
+  Owner                    = {Colt},
+  Publisher                = {APS},
+  Timestamp                = {2015.06.12}
+}
+
+@Article{Newman2002a,
+  Title                    = {Spread of epidemic disease on networks},
+  Author                   = {Newman, Mark EJ},
+  Journal                  = {Physical review E},
+  Year                     = {2002},
+  Number                   = {1},
+  Pages                    = {016128},
+  Volume                   = {66},
+
+  Owner                    = {Colt},
+  Publisher                = {APS},
   Timestamp                = {2015.06.12}
 }
 
@@ -740,6 +840,20 @@
   Timestamp                = {2014.07.19}
 }
 
+@Article{Prakash2012,
+  Title                    = {Threshold conditions for arbitrary cascade models on arbitrary networks},
+  Author                   = {Prakash, B Aditya and Chakrabarti, Deepayan and Valler, Nicholas C and Faloutsos, Michalis and Faloutsos, Christos},
+  Journal                  = {Knowledge and information systems},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {549--575},
+  Volume                   = {33},
+
+  Owner                    = {Colt},
+  Publisher                = {Springer},
+  Timestamp                = {2015.06.12}
+}
+
 @Article{Radcliffe-Brown1940,
   Title                    = {On joking relationships},
   Author                   = {Radcliffe-Brown, Alfred R},
@@ -748,6 +862,7 @@
   Number                   = {03},
   Pages                    = {195--210},
   Volume                   = {13},
+
   Owner                    = {Colt},
   Publisher                = {Cambridge Univ Press},
   Timestamp                = {2015.06.11}
@@ -840,8 +955,9 @@
 @Article{Schelling1978,
   Title                    = {Micromotives and Macrobehavior},
   Author                   = {Schelling, Thomas C},
-  Journal                  = {New York: NortonSchellingMicromotives and Macrobehavior1978},
+  Journal                  = {New York: W. W. Norton \& Company},
   Year                     = {1978},
+
   Owner                    = {Colt},
   Timestamp                = {2015.06.12}
 }
