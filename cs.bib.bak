@@ -747,6 +747,19 @@
   Timestamp                = {2015.06.12}
 }
 
+@InProceedings{Manning2014,
+  Title                    = {The {Stanford} {CoreNLP} Natural Language Processing Toolkit},
+  Author                   = {Manning, Christopher D. and Surdeanu, Mihai and Bauer, John and Finkel, Jenny and Bethard, Steven J. and McClosky, David},
+  Booktitle                = {Proceedings of 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations},
+  Year                     = {2014},
+  Pages                    = {55--60},
+
+  File                     = {:Manning2014.pdf:PDF},
+  Owner                    = {Colt},
+  Timestamp                = {2015.10.08},
+  Url                      = {http://www.aclweb.org/anthology/P/P14/P14-5010}
+}
+
 @Book{Moscibroda2013,
   Title                    = {LNCS 8179 Structural Information and Communication Complexity},
   Author                   = {Moscibroda, Thomas and Rescigno, Adele A},
